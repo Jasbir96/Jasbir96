@@ -1,1 +1,1 @@
-![A cat used to live here 😐😐](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif){width="400px"}
+![Mario used to live here  😐😐](https://c.tenor.com/s86MhfzyTbwAAAAj/mario.gif)
