@@ -1,1 +1,1 @@
-<img src="https://giffiles.alphacoders.com/911/91.gif" alt="A cat used to live here 😐😐" height="60" width="100/>
+![A cat used to live here 😐😐](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif | width=100)
